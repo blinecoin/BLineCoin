@@ -6,18 +6,18 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About linkcoin</source>
-        <translation>About linkcoin</translation>
+        <source>About blinecoin</source>
+        <translation>About blinecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;linkcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;linkcoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;blinecoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;blinecoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2012 The linkcoin developers</source>
-        <translation>Copyright © 2009-2012 The linkcoin developers</translation>
+        <source>Copyright © 2009-2012 The blinecoin developers</source>
+        <translation>Copyright © 2009-2012 The blinecoin developers</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -64,8 +64,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your linkcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your linkcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your blinecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your blinecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -79,8 +79,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a linkcoin address</source>
-        <translation>Sign a message to prove you own a linkcoin address</translation>
+        <source>Sign a message to prove you own a blinecoin address</source>
+        <translation>Sign a message to prove you own a blinecoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -94,8 +94,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified linkcoin address</source>
-        <translation>Verify a message to ensure it was signed with a specified linkcoin address</translation>
+        <source>Verify a message to ensure it was signed with a specified blinecoin address</source>
+        <translation>Verify a message to ensure it was signed with a specified blinecoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -252,8 +252,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>linkcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>linkcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
+        <source>blinecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>blinecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -366,8 +366,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about linkcoin</source>
-        <translation>Show information about linkcoin</translation>
+        <source>Show information about blinecoin</source>
+        <translation>Show information about blinecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Send coins to a linkcoin address</source>
-        <translation>Send coins to a linkcoin address</translation>
+        <source>Send coins to a blinecoin address</source>
+        <translation>Send coins to a blinecoin address</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for linkcoin</source>
-        <translation>Modify configuration options for linkcoin</translation>
+        <source>Modify configuration options for blinecoin</source>
+        <translation>Modify configuration options for blinecoin</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -464,8 +464,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-186"/>
-        <source>linkcoin</source>
-        <translation>linkcoin</translation>
+        <source>blinecoin</source>
+        <translation>blinecoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -474,8 +474,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+168"/>
-        <source>&amp;About linkcoin</source>
-        <translation>&amp;About linkcoin</translation>
+        <source>&amp;About blinecoin</source>
+        <translation>&amp;About blinecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -516,15 +516,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>linkcoin client</source>
-        <translation>linkcoin client</translation>
+        <source>blinecoin client</source>
+        <translation>blinecoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+69"/>
-        <source>%n active connection(s) to linkcoin network</source>
+        <source>%n active connection(s) to blinecoin network</source>
         <translation>
-            <numerusform>%n active connection to linkcoin network</numerusform>
-            <numerusform>%n active connections to linkcoin network</numerusform>
+            <numerusform>%n active connection to blinecoin network</numerusform>
+            <numerusform>%n active connections to blinecoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -621,8 +621,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid linkcoin address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid linkcoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid blinecoin address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid blinecoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -656,8 +656,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. linkcoin can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. linkcoin can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. blinecoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. blinecoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -722,8 +722,8 @@ Address: %4
     </message>
     <message>
         <location line="+5"/>
-        <source>The entered address &quot;%1&quot; is not a valid linkcoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid linkcoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid blinecoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid blinecoin address.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -741,8 +741,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+419"/>
         <location line="+12"/>
-        <source>linkcoin-Qt</source>
-        <translation>linkcoin-Qt</translation>
+        <source>blinecoin-Qt</source>
+        <translation>blinecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -804,13 +804,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start linkcoin after logging in to the system.</source>
-        <translation>Automatically start linkcoin after logging in to the system.</translation>
+        <source>Automatically start blinecoin after logging in to the system.</source>
+        <translation>Automatically start blinecoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start linkcoin on system login</source>
-        <translation>&amp;Start linkcoin on system login</translation>
+        <source>&amp;Start blinecoin on system login</source>
+        <translation>&amp;Start blinecoin on system login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -829,8 +829,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the linkcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the linkcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the blinecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the blinecoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -839,8 +839,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the linkcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the linkcoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the blinecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the blinecoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -914,8 +914,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting linkcoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting linkcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting blinecoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting blinecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -929,8 +929,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show linkcoin addresses in the transaction list or not.</source>
-        <translation>Whether to show linkcoin addresses in the transaction list or not.</translation>
+        <source>Whether to show blinecoin addresses in the transaction list or not.</source>
+        <translation>Whether to show blinecoin addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -966,8 +966,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting linkcoin.</source>
-        <translation>This setting will take effect after restarting linkcoin.</translation>
+        <source>This setting will take effect after restarting blinecoin.</source>
+        <translation>This setting will take effect after restarting blinecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -985,8 +985,8 @@ Address: %4
     <message>
         <location line="+33"/>
         <location line="+183"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the linkcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the linkcoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the blinecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the blinecoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-141"/>
@@ -1201,8 +1201,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the linkcoin-Qt help message to get a list with possible linkcoin command-line options.</source>
-        <translation>Show the linkcoin-Qt help message to get a list with possible linkcoin command-line options.</translation>
+        <source>Show the blinecoin-Qt help message to get a list with possible blinecoin command-line options.</source>
+        <translation>Show the blinecoin-Qt help message to get a list with possible blinecoin command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1221,13 +1221,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>linkcoin - Debug window</source>
-        <translation>linkcoin - Debug window</translation>
+        <source>blinecoin - Debug window</source>
+        <translation>blinecoin - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>linkcoin Core</source>
-        <translation>linkcoin Core</translation>
+        <source>blinecoin Core</source>
+        <translation>blinecoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1236,8 +1236,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the linkcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the linkcoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the blinecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the blinecoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1246,8 +1246,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the linkcoin RPC console.</source>
-        <translation>Welcome to the linkcoin RPC console.</translation>
+        <source>Welcome to the blinecoin RPC console.</source>
+        <translation>Welcome to the blinecoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1430,8 +1430,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a valid linkcoin address</source>
-        <translation>Enter a valid linkcoin address </translation>
+        <source>Enter a valid blinecoin address</source>
+        <translation>Enter a valid blinecoin address </translation>
     </message>
 </context>
 <context>
@@ -1491,8 +1491,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this linkcoin address</source>
-        <translation>Sign the message to prove you own this linkcoin address</translation>
+        <source>Sign the message to prove you own this blinecoin address</source>
+        <translation>Sign the message to prove you own this blinecoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -1523,8 +1523,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified linkcoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified linkcoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified blinecoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified blinecoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -1534,8 +1534,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a valid linkcoin address</source>
-        <translation>Enter a valid linkcoin address</translation>
+        <source>Enter a valid blinecoin address</source>
+        <translation>Enter a valid blinecoin address</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1544,8 +1544,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter linkcoin signature</source>
-        <translation>Enter linkcoin signature</translation>
+        <source>Enter blinecoin signature</source>
+        <translation>Enter blinecoin signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2115,8 +2115,8 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+82"/>
-        <source>linkcoin version</source>
-        <translation>linkcoin version</translation>
+        <source>blinecoin version</source>
+        <translation>blinecoin version</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2145,13 +2145,13 @@ Address: %4
     </message>
     <message>
         <location line="+23"/>
-        <source>Specify configuration file (default: linkcoin.conf)</source>
-        <translation>Specify configuration file (default: linkcoin.conf)</translation>
+        <source>Specify configuration file (default: blinecoin.conf)</source>
+        <translation>Specify configuration file (default: blinecoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: linkcoind.pid)</source>
-        <translation>Specify pid file (default: linkcoind.pid)</translation>
+        <source>Specify pid file (default: blinecoind.pid)</source>
+        <translation>Specify pid file (default: blinecoind.pid)</translation>
     </message>
     <message>
         <location line="-47"/>
@@ -2305,8 +2305,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong linkcoin will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong linkcoin will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong blinecoin will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong blinecoin will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2540,13 +2540,13 @@ Address: %4
     </message>
     <message>
         <location line="-131"/>
-        <source>Cannot obtain a lock on data directory %s.  linkcoin is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s.  linkcoin is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s.  blinecoin is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s.  blinecoin is probably already running.</translation>
     </message>
     <message>
         <location line="+57"/>
-        <source>linkcoin</source>
-        <translation>linkcoin</translation>
+        <source>blinecoin</source>
+        <translation>blinecoin</translation>
     </message>
     <message>
         <location line="+77"/>
@@ -2580,13 +2580,13 @@ Address: %4
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of linkcoin</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of linkcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of blinecoin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of blinecoin</translation>
     </message>
     <message>
         <location line="+73"/>
-        <source>Wallet needed to be rewritten: restart linkcoin to complete</source>
-        <translation>Wallet needed to be rewritten: restart linkcoin to complete</translation>
+        <source>Wallet needed to be rewritten: restart blinecoin to complete</source>
+        <translation>Wallet needed to be rewritten: restart blinecoin to complete</translation>
     </message>
     <message>
         <location line="-75"/>
@@ -2655,8 +2655,8 @@ Address: %4
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. linkcoin is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. linkcoin is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. blinecoin is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. blinecoin is probably already running.</translation>
     </message>
     <message>
         <location line="+55"/>

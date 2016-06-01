@@ -6,18 +6,18 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About linkcoin</source>
+        <source>About blinecoin</source>
         <translation>关于至尊币</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;linkcoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;blinecoin&lt;/b&gt; version</source>
         <translation>&lt;b&gt;至尊币&lt;/b&gt;版本</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2012 The linkcoin developers</source>
-        <translation>Copyright © 2009-2012 The linkcoin developers</translation>
+        <source>Copyright © 2009-2012 The blinecoin developers</source>
+        <translation>Copyright © 2009-2012 The blinecoin developers</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -64,7 +64,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your linkcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your blinecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>这些是你接受支付的至尊币地址。当支付时你可以给出不同的地址，以便追踪不同的支付者。</translation>
     </message>
     <message>
@@ -79,7 +79,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a linkcoin address</source>
+        <source>Sign a message to prove you own a blinecoin address</source>
         <translation>发送签名消息以证明您是该至尊币地址的拥有者</translation>
     </message>
     <message>
@@ -94,7 +94,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified linkcoin address</source>
+        <source>Verify a message to ensure it was signed with a specified blinecoin address</source>
         <translation>验证信息以确保它是一个指定的至尊币地址</translation>
     </message>
     <message>
@@ -252,7 +252,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>linkcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>blinecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>将关闭软件以完成加密过程。 请您谨记：钱包加密并不是万能的，电脑中毒，您的至尊币还是有可能丢失。</translation>
     </message>
     <message>
@@ -366,7 +366,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about linkcoin</source>
+        <source>Show information about blinecoin</source>
         <translation>显示至尊币的相关信息</translation>
     </message>
     <message>
@@ -419,12 +419,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Send coins to a linkcoin address</source>
+        <source>Send coins to a blinecoin address</source>
         <translation>将货币发送到一个至尊币地址</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for linkcoin</source>
+        <source>Modify configuration options for blinecoin</source>
         <translation>修改至尊币配置选项</translation>
     </message>
     <message>
@@ -464,7 +464,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-186"/>
-        <source>linkcoin</source>
+        <source>blinecoin</source>
         <translation>至尊币</translation>
     </message>
     <message>
@@ -474,7 +474,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+168"/>
-        <source>&amp;About linkcoin</source>
+        <source>&amp;About blinecoin</source>
         <translation>&amp;关于至尊币</translation>
     </message>
     <message>
@@ -516,12 +516,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>linkcoin client</source>
+        <source>blinecoin client</source>
         <translation>至尊币客户端</translation>
     </message>
     <message numerus="yes">
         <location line="+69"/>
-        <source>%n active connection(s) to linkcoin network</source>
+        <source>%n active connection(s) to blinecoin network</source>
         <translation>
             <numerusform>%n 个到至尊币网络的活动连接</numerusform>
             <numerusform>%n 个到至尊币网络的活动连接</numerusform>
@@ -621,7 +621,7 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid linkcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid blinecoin address or malformed URI parameters.</source>
         <translation>URI 无法解析，至尊币地址无效。</translation>
     </message>
     <message>
@@ -656,7 +656,7 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. linkcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. blinecoin can no longer continue safely and will quit.</source>
         <translation>发生致命错误，钱包将安全退出。</translation>
     </message>
 </context>
@@ -722,7 +722,7 @@ Address: %4
     </message>
     <message>
         <location line="+5"/>
-        <source>The entered address &quot;%1&quot; is not a valid linkcoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid blinecoin address.</source>
         <translation>>输入的地址  &quot;%1&quot; 并不是一个有效的至尊币地址</translation>
     </message>
     <message>
@@ -741,8 +741,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+419"/>
         <location line="+12"/>
-        <source>linkcoin-Qt</source>
-        <translation>linkcoin-Qt</translation>
+        <source>blinecoin-Qt</source>
+        <translation>blinecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -804,12 +804,12 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start linkcoin after logging in to the system.</source>
+        <source>Automatically start blinecoin after logging in to the system.</source>
         <translation>登录系统后自动启动至尊币客户端</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start linkcoin on system login</source>
+        <source>&amp;Start blinecoin on system login</source>
         <translation>&amp;登录系统后启动至尊币客户端</translation>
     </message>
     <message>
@@ -829,7 +829,7 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the linkcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the blinecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>自动在路由器中打开至尊币端口。只有当您的路由器开启 UPnP 选项时此功能才有效。</translation>
     </message>
     <message>
@@ -839,7 +839,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the linkcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the blinecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>通过一个SOCKS4代理连接到至尊币网络 (如使用Tor连接时)</translation>
     </message>
     <message>
@@ -914,7 +914,7 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting linkcoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting blinecoin.</source>
         <translation>用户界面语言可以在这里设置，至尊币客户端重新启动后生效.</translation>
     </message>
     <message>
@@ -929,7 +929,7 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show linkcoin addresses in the transaction list or not.</source>
+        <source>Whether to show blinecoin addresses in the transaction list or not.</source>
         <translation>是否在交易列表中显示或隐藏至尊币地址.</translation>
     </message>
     <message>
@@ -966,7 +966,7 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting linkcoin.</source>
+        <source>This setting will take effect after restarting blinecoin.</source>
         <translation>重启至尊币客户端后此设置生效.</translation>
     </message>
     <message>
@@ -985,7 +985,7 @@ Address: %4
     <message>
         <location line="+33"/>
         <location line="+183"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the linkcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the blinecoin network after a connection is established, but this process has not completed yet.</source>
         <translation>显示的信息可能会过时，您的钱包与至尊币网络建立连接后会自动同步，但这个过程尚未完成.</translation>
     </message>
     <message>
@@ -1201,7 +1201,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the linkcoin-Qt help message to get a list with possible linkcoin command-line options.</source>
+        <source>Show the blinecoin-Qt help message to get a list with possible blinecoin command-line options.</source>
         <translation>显示至尊币的帮助信息 命令行选项获取列表.</translation>
     </message>
     <message>
@@ -1221,12 +1221,12 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>linkcoin - Debug window</source>
+        <source>blinecoin - Debug window</source>
         <translation>至尊币 - 调试窗口</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>linkcoin Core</source>
+        <source>blinecoin Core</source>
         <translation>至尊币核心</translation>
     </message>
     <message>
@@ -1236,7 +1236,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the linkcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the blinecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>从当前数据目录打开至尊币调试日志文件，对于大的日志文件，这可能需要几秒钟.</translation>
     </message>
     <message>
@@ -1246,7 +1246,7 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the linkcoin RPC console.</source>
+        <source>Welcome to the blinecoin RPC console.</source>
         <translation>欢迎来到至尊币RPC控制台.</translation>
     </message>
     <message>
@@ -1430,7 +1430,7 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a valid linkcoin address</source>
+        <source>Enter a valid blinecoin address</source>
         <translation>请输入一个有效的至尊币地址 </translation>
     </message>
 </context>
@@ -1491,7 +1491,7 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this linkcoin address</source>
+        <source>Sign the message to prove you own this blinecoin address</source>
         <translation>发送签名消息以证明您是该至尊币地址的拥有者</translation>
     </message>
     <message>
@@ -1523,7 +1523,7 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified linkcoin address</source>
+        <source>Verify the message to ensure it was signed with the specified blinecoin address</source>
         <translation>验证消息以确保它是指定的至尊币地址</translation>
     </message>
     <message>
@@ -1534,7 +1534,7 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a valid linkcoin address</source>
+        <source>Enter a valid blinecoin address</source>
         <translation>请输入一个有效的至尊币地址</translation>
     </message>
     <message>
@@ -1544,7 +1544,7 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter linkcoin signature</source>
+        <source>Enter blinecoin signature</source>
         <translation>输入至尊币签名</translation>
     </message>
     <message>
@@ -2115,7 +2115,7 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+82"/>
-        <source>linkcoin version</source>
+        <source>blinecoin version</source>
         <translation>至尊币版本</translation>
     </message>
     <message>
@@ -2125,8 +2125,8 @@ Address: %4
     </message>
     <message>
         <location line="-25"/>
-        <source>Send command to -server or linkcoind</source>
-        <translation>发送命令到服务器或者 linkcoind</translation>
+        <source>Send command to -server or blinecoind</source>
+        <translation>发送命令到服务器或者 blinecoind</translation>
     </message>
     <message>
         <location line="-19"/>
@@ -2145,13 +2145,13 @@ Address: %4
     </message>
     <message>
         <location line="+23"/>
-        <source>Specify configuration file (default: linkcoin.conf)</source>
-        <translation>指定配置文件 (缺省为 linkcoin.conf)</translation>
+        <source>Specify configuration file (default: blinecoin.conf)</source>
+        <translation>指定配置文件 (缺省为 blinecoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: linkcoind.pid)</source>
-        <translation>指定 pid 文件 (缺省为 linkcoind.pid)</translation>
+        <source>Specify pid file (default: blinecoind.pid)</source>
+        <translation>指定 pid 文件 (缺省为 blinecoind.pid)</translation>
     </message>
     <message>
         <location line="-47"/>
@@ -2305,7 +2305,7 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong linkcoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong blinecoin will not work properly.</source>
         <translation>警告：请确定您当前计算机的日期和时间是正确的。至尊币将无法在错误的时间下正常工作.</translation>
     </message>
     <message>
@@ -2540,12 +2540,12 @@ Address: %4
     </message>
     <message>
         <location line="-131"/>
-        <source>Cannot obtain a lock on data directory %s.  linkcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  blinecoin is probably already running.</source>
         <translation>无法给数据目录 %s 加锁。至尊币进程可能已在运行。</translation>
     </message>
     <message>
         <location line="+57"/>
-        <source>linkcoin</source>
+        <source>blinecoin</source>
         <translation>至尊币</translation>
     </message>
     <message>
@@ -2580,12 +2580,12 @@ Address: %4
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of linkcoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of blinecoin</source>
         <translation>wallet.dat钱包文件加载错误：请升级到最新至尊币客户端</translation>
     </message>
     <message>
         <location line="+73"/>
-        <source>Wallet needed to be rewritten: restart linkcoin to complete</source>
+        <source>Wallet needed to be rewritten: restart blinecoin to complete</source>
         <translation>钱包文件需要重写：请退出并重新启动至尊币客户端</translation>
     </message>
     <message>
@@ -2655,7 +2655,7 @@ Address: %4
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. linkcoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. blinecoin is probably already running.</source>
         <translation>无法绑定到%1在这台计算机上。至尊币可能已经运行。</translation>
     </message>
     <message>

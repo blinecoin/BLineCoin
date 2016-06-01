@@ -1,2 +1,2 @@
-# linkcoin
+# blinecoin
 first commit

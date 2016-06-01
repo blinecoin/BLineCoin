@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = linkcoin-qt
+TARGET = blinecoin-qt
 VERSION = 1.0.0
 INCLUDEPATH += src src/json src/qt
 QT += network
@@ -271,7 +271,7 @@ SOURCES += src/qt/test/test_main.cpp \
 HEADERS += src/qt/test/uritests.h
 DEPENDPATH += src/qt/test
 QT += testlib
-TARGET = linkcoin-qt_test
+TARGET = blinecoin-qt_test
 DEFINES += BITCOIN_QT_TEST
 }
 
@@ -351,8 +351,8 @@ macx:HEADERS += src/qt/macdockiconhandler.h
 macx:OBJECTIVE_SOURCES += src/qt/macdockiconhandler.mm
 macx:LIBS += -framework Foundation -framework ApplicationServices -framework AppKit
 macx:DEFINES += MAC_OSX MSG_NOSIGNAL=0
-macx:ICON = src/qt/res/icons/linkcoin.icns
-macx:TARGET = "linkcoin-Qt"
+macx:ICON = src/qt/res/icons/blinecoin.icns
+macx:TARGET = "blinecoin-Qt"
 macx:QMAKE_CFLAGS_THREAD += -pthread
 macx:QMAKE_LFLAGS_THREAD += -pthread
 macx:QMAKE_CXXFLAGS_THREAD += -pthread
