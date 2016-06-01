@@ -1,0 +1,9 @@
+Building HBcoin
+
+See doc/readme-qt.rst for instructions on building HBcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HBcoin.
+
+See doc/build-*.txt for instructions on building HBcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HBcoin.
